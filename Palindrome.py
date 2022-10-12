@@ -28,7 +28,7 @@ def isPalindrome(s):
 
 # main function
 
-s = "malayalam"
+s = "english"
 
 ans = isPalindrome(s)
 
